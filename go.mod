@@ -14,7 +14,7 @@ require (
 	github.com/btcsuite/btcwallet/wallet/txsizes v1.0.0
 	github.com/centrifuge/go-substrate-rpc-client/v4 v4.0.0
 	github.com/cosmos/btcutil v1.0.4
-	github.com/cosmos/cosmos-sdk v0.45.11
+	github.com/cosmos/cosmos-sdk v0.45.0-rc1
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/deckarep/golang-set v1.8.0
 	github.com/didip/tollbooth/v6 v6.1.2
@@ -70,7 +70,7 @@ require (
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/confio/ics23/go v0.7.0 // indirect
-	github.com/cosmos/iavl v0.19.4 // indirect
+	github.com/cosmos/iavl v0.19.0 // indirect
 	github.com/cosmos/ledger-cosmos-go v0.11.1 // indirect
 	github.com/cosmos/ledger-go v0.9.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
@@ -192,8 +192,8 @@ require (
 	github.com/tendermint/tm-db v0.6.6 // indirect
 	github.com/teris-io/shortid v0.0.0-20171029131806-771a37caa5cf // indirect
 	github.com/texttheater/golang-levenshtein/levenshtein v0.0.0-20200805054039-cae8b0eaed6c // indirect
-	github.com/tidwall/gjson v1.6.3 // indirect
-	github.com/tidwall/match v1.0.1 // indirect
+	github.com/tidwall/gjson v1.9.3 // indirect
+	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
 	github.com/tklauser/numcpus v0.2.2 // indirect
@@ -214,7 +214,6 @@ require (
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.23.0 // indirect
-	golang.org/x/exp v0.0.0-20220916125017-b168a2c6b86b // indirect
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
