@@ -47,7 +47,7 @@ require (
 	github.com/zksync-sdk/zksync2-go v0.0.0-20230313172442-06a0c45dcf48
 	go.mongodb.org/mongo-driver v1.11.1
 	golang.org/x/crypto v0.11.0
-	google.golang.org/grpc v1.56.2
+	google.golang.org/grpc v1.56.3
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 )
